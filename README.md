@@ -1,6 +1,7 @@
 # One Month Rails
 
 This is the pinteresting sample application for
-{*One Month Rails*}{http://onemonthrails.com}
+
+[Clarity](www.google.com)
 
 by [Alex Kruger](http://www.google.com)
