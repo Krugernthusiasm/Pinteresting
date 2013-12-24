@@ -1,6 +1,7 @@
 SampleApp2::Application.routes.draw do
   root "pages#hoome"
- get "about" => "pages#about"
+ get "about" => "pages#about" # creates about_path automatically
+ 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
