@@ -1,4 +1,5 @@
 SampleApp2::Application.routes.draw do
+  devise_for :users
   root "pages#hoome"
  get "about" => "pages#about" # creates about_path automatically
  get "samplepics" => "pages#samplepics" #creates samplepics_path automatically
